@@ -10,8 +10,6 @@
 - Tags an Emails
 - Anhänge?
 
----
-
 ## Firmen
 - Mitarbeiter Verwaltung
 - Buchhaltung
@@ -25,14 +23,10 @@
 - Ordnersystem
 - Freigabesystem
 
----
-
 ## Internet
 - ClearNet
 - Internetseite Aufrufen über Adresszeile oder Suchfunktion
 - Darknet(Verwaltet vom CRIME Game Design)
-
----
 
 ## Staatliche Strukturen
 ### Aktensystem
@@ -42,6 +36,7 @@
 - Rechtesystem
 - Personenakten
 - Benutzerdefinierte Lizenzen
+
 ### Police System
 - Leitstelle
 - Ermittlungen
@@ -54,6 +49,7 @@
 - Fahndung
 - Kalendersystem(Sync mit eigenen Kalender)
 - Einsatzberichte
+
 ### Medic System
 - Leitstelle
 - Handbuchsystem
@@ -62,6 +58,7 @@
 - Ausbildungssystem
 - Mitarbeitersystem
 - Kalendersystem(Sync mit eigenen Kalender)
+
 ### Justiz System
 - Leitstelle
 - Ermittlungen
@@ -73,6 +70,7 @@
 - Fahndung
 - Kalendersystem(Sync mit eigenen Kalender)
 - Haftantritt 
+
 ### Administration(vom Team verwaltet)
 - Verwaltung der Staatlichen Strukturen
 - Websiten Erstellung der Staatlichen Strukturen
@@ -83,8 +81,6 @@
 - Log Systsem
 - Einstellungen für alle Bereiche
 
----
-
 ## Social Media
 - San Andreas Feed
 - Mein Feed
@@ -94,11 +90,8 @@
 - Events
 - Werbung
 - Gruppen
----
 
 ## Wetter
-
----
 
 ## Notizen
 - Überschrift, Textfeld, leichte Formatierung
@@ -106,13 +99,9 @@
 - Notizen in Ordner sortieren
 ## Gesetzbücher
 
----
-
 ## Kalender
 - Tages, Wochen und Monatsansicht
 - wiederkehrende Termine
 -Prio
-
----
 
 ## Taschenrechner
