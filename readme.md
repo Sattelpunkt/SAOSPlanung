@@ -1,8 +1,7 @@
 # Grundsätzliche Planung für das San Andreas Operation System
 
 ## Email System
-- zwei Email Adresse einmal Michael.Hunter@saso.ls und eine freie Mail
-- Email Verteiler für Firmen
+- Email Verteiler für Firmen und staatliche Behörden
 - Ordner
 - CC und BC
 - Weiterleiten und Antworten
