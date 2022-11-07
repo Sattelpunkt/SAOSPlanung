@@ -8,7 +8,7 @@
 - Weiterleiten und Antworten
 - Spam Emails(lustige Viagra Werbung etc)
 - Tags an Emails
-- Anhänge?
+- Anhänge(Dokumente)
 
 ## Firmen
 - Mitarbeiter Verwaltung
@@ -36,11 +36,18 @@
 - Rechtesystem
 - Personenakten
 - Benutzerdefinierte Lizenzen
+- Logging
+- Akten verknüpfen(Auch MD Akten mit PD Akten)
+- Suchsystem
+- Dokumentensystem(An Akten anheftbar)
+- Aktenzuweisen
+- Benutzerdefinierte Tags
 
 ### Police System
 - Leitstelle
 - Ermittlungen
 - Gruppierungen
+- DTU Bereich
 - Strafanzeigen
 - Mitarbeiterverwaltung
 - Handbuchsystem
@@ -49,6 +56,7 @@
 - Fahndung
 - Kalendersystem(Sync mit eigenen Kalender)
 - Einsatzberichte
+- Haftantritt 
 
 ### Medic System
 - Leitstelle
@@ -61,15 +69,24 @@
 
 ### Justiz System
 - Leitstelle
-- Ermittlungen
-- Gruppierungen
-- Strafanzeigen
+- Zugriff auf alle PD Akten
 - Mitarbeiterverwaltung
 - Handbuchsystem
 - Ausbildungssystem
-- Fahndung
 - Kalendersystem(Sync mit eigenen Kalender)
 - Haftantritt 
+- Urteile (mit veröffentlichungen + Anhäftung an die Akte)
+- Anklageschriften
+- Beschlüsse
+- Anträge
+
+### Anwalts System
+- Kanzlei Zugriff
+- Leitstelle
+- Zugriff auf freigegebene Akten
+- Mitarbeiterverwaltung
+- Kalendersystem(Sync mit eigenen Kalender)
+- eventueller eingebaut bei Firmen
 
 ### Administration(vom Team verwaltet)
 - Verwaltung der Staatlichen Strukturen
@@ -84,11 +101,12 @@
 ## Social Media
 - San Andreas Feed
 - Mein Feed
+- Nachrichten
 - Mein Profil
 - Suche
 - Einstellungen
 - Events
-- Werbung
+- Seiten Anlegen(Verwaltung, Nachricht senden etc)
 - Gruppen
 
 ## Wetter
